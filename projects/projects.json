@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Recipe Magic",
+    "desc": "Generative AI based website which suggests food recipe based on the user ingredients",
+    "image": "recipemagic",
+    "category": "web",
+    "links": {
+      "view": "https://recipemagic.onrender.com/",
+      "code": "https://github.com/redmoon0x/Recipemagic.git"
+    },
+    "technologies": ["Google Generative AI", "Flask", "HTML", "CSS"]
+  },
+  {
+    "name": "NamiBookSearch",
+    "desc": "Search and download PDFs across the web effortlessly",
+    "image": "namibooksearch",
+    "category": "web",
+    "links": {
+      "view": "https://namibooksearch.streamlit.app/",
+      "code": "https://github.com/redmoon0x/Nami-Tressure"
+    },
+    "technologies": ["Streamlit", "Python"]
+  },
+  {
+    "name": "ShinobiShelf",
+    "desc": "A Telegram bot for finding and downloading PDFs freely",
+    "image": "shinobishelf",
+    "category": "bot",
+    "links": {
+      "view": "https://t.me/ShinobiShelf_Bot",
+      "code": "https://github.com/redmoon0x/NamiBot"
+    },
+    "technologies": ["Telegram Bot API", "Python"]
+  },
+  {
+    "name": "DriveSearchEngine",
+    "desc": "Search files stored on Google Drive with ease",
+    "image": "drivesearchengine",
+    "category": "web",
+    "links": {
+      "view": "https://drivesearchengine.streamlit.app/",
+      "code": "https://github.com/redmoon0x/drivesearchengine"
+    },
+    "technologies": ["Streamlit", "Python"]
+  },
+  {
+    "name": "YouTube Transcripter",
+    "desc": "Get instant transcriptions of YouTube videos—fast, secure, and easy",
+    "image": "youtubetranscripter",
+    "category": "web",
+    "links": {
+      "view": "https://youtubetranscripter.onrender.com/",
+      "code": "https://github.com/redmoon0x/YoutubeTranscript"
+    },
+    "technologies": ["Flask", "HTML", "CSS"]
+  },
+  {
+    "name": "YouTube Transcripter Bot",
+    "desc": "Fetch YouTube video transcripts instantly!",
+    "image": "youtubetranscripterbot",
+    "category": "bot",
+    "links": {
+      "view": "https://t.me/redmoon0ox_bot",
+      "code": "https://github.com/redmoon0x/RedmoonUTUBEtranscriptor"
+    },
+    "technologies": ["Telegram Bot API", "Python"]
+  }
+]
